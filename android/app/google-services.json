@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10999116233",
+    "firebase_url": "https://trading-nexus-default-rtdb.firebaseio.com",
+    "project_id": "trading-nexus",
+    "storage_bucket": "trading-nexus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10999116233:android:0d3669f0e217c98601b818",
+        "android_client_info": {
+          "package_name": "com.iNSO.Trading_Nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10999116233-4duutckin49apqri0hv2kle0at7jq396.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbIV0f2Pu4ejfOLMLUOZSOqZK14jhe55I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10999116233-4duutckin49apqri0hv2kle0at7jq396.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
